@@ -1,0 +1,28 @@
+Questoes
+
+1) Banco de dados serve para guardar dados em um servidor de uma forma facil e eficiente
+SQL: mysql , oracle db, maria db
+no-SQL: cassandra, mongodb, hbase
+
+2) Alguns exemplos são
+pizzaria online, prefeitura, condominio, biblioteca, esportes de pontos, escola, loja online,
+ servico de filmes e séries online, noticiario, requisicao para industria.
+
+3) O Sistema gerenciador de banco de dados é o motor do banco de dados, ele disponibiliza os dados para os desenvolvedores.
+ Sem ele, o banco de dados seria apenas uns arquivos texto
+ 
+4) O SGBD faz mais que mostrar os arquivos: ele controla a entrada e a disponibilizacao de dados,
+ alem de poder ordenar tudo e procurar dinamicamente
+ 
+5) 
+DDL: Data Definition Language, ou em portugues: Linguagem de Definição de Dados 
+é usado para criar, alterar ou excluir tabelas
+ALTER CREATE DROP
+
+DML: Data Manipulation Language, ou em portugues: Linguagem de Manipulação de Dados
+é usado para criar instancias de tabelas existentes
+DELETE INSERT UPDATE
+
+DCL: Data Control Language, ou em portugues: Linguagem de Controle de Dados
+é usado para controlar o acesso das informacoes na tabela
+DENY GRANT REVOKE
